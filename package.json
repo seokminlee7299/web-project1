@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1"
+  },
+  "name": "202508077",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab4_post.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
